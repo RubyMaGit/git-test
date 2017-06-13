@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" ID="https___bit-asindevelop-lnx.int.bbpd.io_8443_auth-saml_saml_SSO_alias__102_1" entityID="https://bit-asindevelop-lnx.int.bbpd.io:8443/auth-saml/saml/SSO/alias/_102_1"><md:SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:Extensions><idpdisco:DiscoveryResponse xmlns:idpdisco="urn:oasis:names:tc:SAML:profiles:SSO:idp-discovery-protocol" Binding="urn:oasis:names:tc:SAML:profiles:SSO:idp-discovery-protocol" Location="https://bit-asindevelop-lnx.int.bbpd.io:8443/auth-saml/saml/login/alias/_102_1?disco=true"/></md:Extensions><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIICrTCCAZWgAwIBAgIBATANBgkqhkiG9w0BAQsFADAaMRgwFgYDVQQDEw9CbGFja2JvYXJkIFNB
+TUwwHhcNMTcwNjEyMDE0NzUyWhcNMjcwNjEyMDE0NzUyWjAaMRgwFgYDVQQDEw9CbGFja2JvYXJk
+IFNBTUwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCGialqGuba53etFfQt/Yd8G8YK
+UNtglmWT+KhYw6beK4YGiHqcXOm+rwUW3rHPKTaafRU9aAcgq3yHUTwls/0Ap2uCs1RQk4ftQl3+
+YwtZnKj1K1xUUx81TdBqKS0JAe8yiwS3uPGVdFvm2s811tvw/rAiqLUoqi6OpOrfakbQTwywPtZu
+YRG++YjOjtODSkI2c8zFLvLeFNUqwYsM/4MRvqlQlLkF3m8li6tM/fxl+aP11hiNaayWWj3LcyHW
+XdjrkoMR31/pvOXnWC5Ci2KTRtEh3sREeoQgult1Hd+g/l7jku/rWS2N6ow73dJ6QyuBUi/7amuU
+o/kCJBWZTCbLAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAF93Jw919EzlNx/9yNitPAaC/gJYhXAB
+W0Yqo1soKjXfmaLGgpQa5MafczKyvRYE1W2YZDsTrla1yOM6xnoW1jN7Ck2EsNDIqAcN7fZxR2OD
+Cg6w/pZ2p1glnSYeCxCY6SUh8/TKIJEunY7nSS3CSu7400s2ckKXsYG9KV1KpIKtD5VjfD+ChBkq
+r04yxLSeYaHS/Z3xXNPmMdoLqQAcyEp+3US8DE6xZM+gGUYriRUASxsFNBWjLh4LmIzaA3kqfZjE
+AYtnKhGkyFHdXSOnuepXiAmS/9Unr0l9rh35xPxC7m19mG4QCY3jcBbE5dS1DNN2nwWkG+86Obu3
+xojQVhk=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:KeyDescriptor use="encryption"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIICrTCCAZWgAwIBAgIBATANBgkqhkiG9w0BAQsFADAaMRgwFgYDVQQDEw9CbGFja2JvYXJkIFNB
+TUwwHhcNMTcwNjEyMDE0NzUyWhcNMjcwNjEyMDE0NzUyWjAaMRgwFgYDVQQDEw9CbGFja2JvYXJk
+IFNBTUwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCGialqGuba53etFfQt/Yd8G8YK
+UNtglmWT+KhYw6beK4YGiHqcXOm+rwUW3rHPKTaafRU9aAcgq3yHUTwls/0Ap2uCs1RQk4ftQl3+
+YwtZnKj1K1xUUx81TdBqKS0JAe8yiwS3uPGVdFvm2s811tvw/rAiqLUoqi6OpOrfakbQTwywPtZu
+YRG++YjOjtODSkI2c8zFLvLeFNUqwYsM/4MRvqlQlLkF3m8li6tM/fxl+aP11hiNaayWWj3LcyHW
+XdjrkoMR31/pvOXnWC5Ci2KTRtEh3sREeoQgult1Hd+g/l7jku/rWS2N6ow73dJ6QyuBUi/7amuU
+o/kCJBWZTCbLAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAF93Jw919EzlNx/9yNitPAaC/gJYhXAB
+W0Yqo1soKjXfmaLGgpQa5MafczKyvRYE1W2YZDsTrla1yOM6xnoW1jN7Ck2EsNDIqAcN7fZxR2OD
+Cg6w/pZ2p1glnSYeCxCY6SUh8/TKIJEunY7nSS3CSu7400s2ckKXsYG9KV1KpIKtD5VjfD+ChBkq
+r04yxLSeYaHS/Z3xXNPmMdoLqQAcyEp+3US8DE6xZM+gGUYriRUASxsFNBWjLh4LmIzaA3kqfZjE
+AYtnKhGkyFHdXSOnuepXiAmS/9Unr0l9rh35xPxC7m19mG4QCY3jcBbE5dS1DNN2nwWkG+86Obu3
+xojQVhk=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://bit-asindevelop-lnx.int.bbpd.io:8443/auth-saml/saml/SingleLogout/alias/_102_1"/><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://bit-asindevelop-lnx.int.bbpd.io:8443/auth-saml/saml/SingleLogout/alias/_102_1"/><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:persistent</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:X509SubjectName</md:NameIDFormat><md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://bit-asindevelop-lnx.int.bbpd.io:8443/auth-saml/saml/SSO/alias/_102_1" index="0" isDefault="true"/><md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Artifact" Location="https://bit-asindevelop-lnx.int.bbpd.io:8443/auth-saml/saml/SSO/alias/_102_1" index="1"/></md:SPSSODescriptor></md:EntityDescriptor>
